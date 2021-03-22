@@ -3,7 +3,7 @@ Implementation of "Fenchel-Young Losses with Skewed Entropies"
 
 This is an official implementation of the following paper:
 
-> Han Bao and Masashi Sugiyama. Fenchel-Young Losses with Skewed Entropies for Class-posterior Probability Estimation. In _AISTATS_, 2021.
+> Han Bao and Masashi Sugiyama. Fenchel-Young Losses with Skewed Entropies for Class-posterior Probability Estimation. In _AISTATS_, 2021. [[link]](http://proceedings.mlr.press/v130/bao21b.html)
 
 The paper provides a convex loss for CPE (class-posterior probability estimation) under class-imbalance,
 based on Fenchel-Young losses.
@@ -25,7 +25,7 @@ python main.py loss.name=gev_fenchel_young dataset=test
 ### F-measure maximization based on a CPE model
 
 ```
-python main.py loss.name=gev_fenchel_young dataset=test
+python f_measure.py loss.name=gev_fenchel_young dataset=test
 ```
 
 ### Options
