@@ -1,7 +1,7 @@
 Implementation of "Fenchel-Young Losses with Skewed Entropies"
 ==============================================================
 
-<img src="https://github.com/levelfour/GEV_Fenchel_Young_Loss/raw/master/loss.png" width=400px />
+<img src="https://github.com/levelfour/GEV_Fenchel_Young_Loss/blob/169438b5fe3d154506b54e87412ef9e4d3149f6e/loss.png" width=600px />
 
 This is an official implementation of the following paper:
 
