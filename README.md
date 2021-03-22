@@ -1,6 +1,8 @@
 Implementation of "Fenchel-Young Losses with Skewed Entropies"
 ==============================================================
 
+<img src="https://github.com/levelfour/GEV_Fenchel_Young_Loss/raw/master/loss.png" width=400px />
+
 This is an official implementation of the following paper:
 
 > Han Bao and Masashi Sugiyama. Fenchel-Young Losses with Skewed Entropies for Class-posterior Probability Estimation. In _AISTATS_, 2021. [[link]](http://proceedings.mlr.press/v130/bao21b.html)
